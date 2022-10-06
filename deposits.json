@@ -1,0 +1,14 @@
+[
+    {
+        "id":"1",
+        "deposit_type": "Fixed"
+    },
+    {
+        "id":"2",
+        "deposit_type": "Recurring"
+    },
+    {
+        "id":"3",
+        "deposit_type": "demat account"
+    }
+]

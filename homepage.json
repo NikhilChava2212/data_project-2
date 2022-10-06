@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "category": "acc summary"
+    },
+    {
+        "id":2,
+        "category":"deposits"
+    },
+    {
+        "id":3,
+        "category":"payments"
+    }
+]

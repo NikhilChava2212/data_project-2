@@ -1,0 +1,122 @@
+[
+    [
+        {
+            "id": 1,
+            "account holder_name": "virat kohli",
+            "account type": "current",
+            "date of birth": "05 nov 1988",
+            "account_number": "NPB0000001",
+            "available balance": 25000,
+            "e-mail id": "",
+            "Image": "https://ibb.co/1bbvrrL",
+            "contact number": "",
+            "pan number": "KCQ*****21",
+            "aadhar number": "2005*******220"
+            
+        },
+        {
+            "id": 2,
+            "account holder_name": "mahendra singh dhoni",
+            "account type": "current",
+            "date of birth": "25 nov 1978",
+            "account_number": "NPB0000002",
+            "available balance": 27000,
+            "e-mail id": "",
+            "Image": "https://i.ibb.co/tsXyK5Y/images.jpg",
+            "contact number": "",
+            "pan number": "KDQ*****22",
+            "aadhar number": "1005*******220"
+        },
+        {
+            "id": 3,
+            "account holder_name": "rohit sharma",
+            "account type": "current",
+            "date of birth": "10 oct 1988",
+            "account_number": "NPB0000003",
+            "available balance": 29000,
+            "e-mail id": "",
+            "Image": "https://i.ibb.co/Tw9cXss/w6.jpg", 
+            "contact number": "",
+            "pan number": "BCQ*****12",
+            "aadhar number": "3008*******220"
+        },
+        {
+            "id": 4,
+            "account holder_name": "chahal",
+            "account type": "current",
+            "date of birth": "15 dec 1989",
+            "account_number": "NPB0000004",
+            "available balance": 28000,
+            "e-mail id": "",
+            "Image":"https://i.ibb.co/GHQjYvv/w7.jpg",
+            "contact number": "",
+            "pan number": "EDQ*****09",
+            "aadhar number": "1002*******220"
+        },
+        {
+            "id": 5,
+            "account holder_name": "narendra modi",
+            "account type": "current",
+            "date of birth": "05 jan 1992",
+            "account_number": "NPB0000005",
+            "available balance": 45000,
+            "e-mail id": "",
+            "Image":"https://i.ibb.co/GHQjYvv/w7.jpg",
+            "contact number": "",
+            "pan number": "QNM*****21",
+            "aadhar number": "9905*******220"
+        },
+        {
+            "id": 6,
+            "account holder_name": "prabhas",
+            "account type": "savings",
+            "date of birth": "23 oct 1988",
+            "account_number": "NPB0000006",
+            "available balance": 52000,
+            "e-mail id": "",
+            "Image":"https://i.ibb.co/GHQjYvv/w7.jpg",
+            "contact number": "",
+            "pan number": "MCB*****31",
+            "aadhar number": "4004*******820"
+        },
+        {
+            "id": 7,
+            "account holder_name": "ram charan",
+            "account type": "savings",
+            "date of birth": "12 dec 1998",
+            "account_number": "NPB0000007",
+            "available balance": 78000,
+            "e-mail id": "",
+            "Image":"https://i.ibb.co/GHQjYvv/w7.jpg",
+            "contact number": "",
+            "pan number": "CWE*****21",
+            "aadhar number": "3105*******220"
+        },
+        {
+            "id": 8,
+            "account holder_name": "laxman",
+            "account type": "savings",
+            "date of birth": "29 feb 2000",
+            "account_number": "NPB0000008",
+            "available balance": 14000,
+            "e-mail id": "",
+            "Image":"https://i.ibb.co/GHQjYvv/w7.jpg",
+            "contact number": "",
+            "pan number": "kCP*****89",
+            "aadhar number": "3021*******980"
+        },
+        {
+            "id": 9,
+            "account holder_name": "priyanka",
+            "account type": "current",
+            "date of birth": "22 dec 2001",
+            "account_number": "NPB0000009",
+            "available balance": 48000,
+            "e-mail id": "",
+            "Image":"https://i.ibb.co/GHQjYvv/w7.jpg",
+            "contact number": "",
+            "pan number": "MKL*****55",
+            "aadhar number": "6868*******558"
+        }
+    ]
+]

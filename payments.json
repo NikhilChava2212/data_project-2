@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "payment_type": "mobile recharge"
+    },
+    {
+        "id":"2",
+        "payment_type": "dth recharge"
+    },
+    {
+        "id":"3",
+        "payment_type": "electricty"
+    },
+    {
+        "id":"4",
+        "payment_type": "loan"
+    }
+]
